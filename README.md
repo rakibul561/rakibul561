@@ -1,4 +1,7 @@
-![logo](https://i.ibb.co/Rp56zKp/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f.jpg)
+
+<p align="center">
+    <img src="https://i.ibb.co/9vVCLq8/462534211-914627213552534-5039221817418556141-n.jpg" class="logo" style="width: 900px;" alt="logo" />
+</p>
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
 <h3 align="center">Front-End React Developer</h3>
 
