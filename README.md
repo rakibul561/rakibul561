@@ -36,6 +36,11 @@
 - 📫 How to reach me: [rakibulhasan3929@gmail.com](mailto:rakibulhasan3929@gmail.com)
 
 
+ <h4 align="center">Thanks for visiting my profile! 😊</h4>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" alt="animated" width="500"/>
+</div>
 
 
 
