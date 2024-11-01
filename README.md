@@ -21,9 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Hover over the icons for a subtle animation!</i>
-</p>
 
 
 
