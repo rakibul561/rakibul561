@@ -29,7 +29,7 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul561&theme=radical" alt="streak" />
 </p>
 
 <p align="center">
@@ -38,10 +38,7 @@
 
 ---
 
-<h2 align="left">🌟 Total Contributions</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul561&theme=dark" alt="streak" />
-</p>
+
 
 ---
 
