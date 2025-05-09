@@ -1,6 +1,10 @@
-# Hi 👋, I'm **Rakibul Hasan**
 
-## Front-End React Developer
+<h1 align="center">Hey, I'm Rakibul Hasan! 👋</h1>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F76F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Passionate+about+Learning+and+Development" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://i.ibb.co/9vVCLq8/462534211-914627213552534-5039221817418556141-n.jpg" alt="Rakibul Hasan Logo" >
@@ -8,14 +12,11 @@
 
 ---
 
-### 🚀 **About Me**
-
-I'm a passionate Front-End Developer with a focus on **React.js** and the latest web technologies. I am always eager to learn new things and contribute to innovative projects that challenge my skills.
-
-- 🌱 Currently learning **[Next.js]**
-- 👯 Looking to collaborate on projects that push boundaries
-- 💬 Ask me about **React**, **JavaScript**, and **Front-End Development**
-- 📫 How to reach me: [rakibulhasan3929@gmail.com](mailto:rakibulhasan3929@gmail.com)
+## 🚀 About Me
+- 🎯 **Building scalable web applications**
+- 📚 **Currently mastering:** `Next.js`, `TypeScript`, `redux`, `Mongoose `
+- 🌟 **Passionate about:** Open Source, Problem Solving, & Learning  
+- 🤝 **Looking for:** Collaborative Projects & Freelance Opportunities  
 
 ---
 
