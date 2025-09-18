@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🎯 **Building scalable web applications**
-- 📚 **Currently mastering:** `Next.js`, `TypeScript`, `redux`, `Mongoose `
+- 📚 Currently mastering: Next.js, TypeScript, Postgres, Prisma 
 - 🌟 **Passionate about:** Open Source, Problem Solving, & Learning  
 - 🤝 **Looking for:** Collaborative Projects & Freelance Opportunities  
 
@@ -55,17 +55,7 @@
 
 ---
 
-### 💼 **My Projects**
 
-I’ve worked on several projects in **React.js**, **Node.js**, and other technologies. Here are a few highlights:
-
-- **[Project 1: Hotel Booking](https://github.com/rakibul561/hotel-booking)** – A full-stack hotel booking application.
-- **[Project 2: Art Store](https://github.com/rakibul561/art-store)** – An e-commerce website for art lovers.
-- **[Project 3: Mobile Financial Service](https://github.com/rakibul561/mfs)** – A project involving mobile financial transactions.
-
-Feel free to check out my [GitHub repositories](https://github.com/rakibul561) for more details.
-
----
 
 ### 🎯 **Goals & Aspirations**
 
