@@ -1,4 +1,4 @@
-# ![Banner Image](https://i.ibb.co.com/Cs7smWj3/flinkedin.png) 
+# ![Banner Image](https://i.ibb.co.com/4nkhLnm1/github-banner.jpg) 
 
 ## 🚀 About Me
 
