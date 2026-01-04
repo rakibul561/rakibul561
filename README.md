@@ -1,87 +1,87 @@
-![MasterHead](https://i.ibb.co/nqmHVGBJ/Your-paragraph-text.png)
-<h1 align="center">Hey, I'm Rakibul Hasan! 👋</h1>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F76F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Passionate+about+Learning+and+Development" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://i.ibb.co/9vVCLq8/462534211-914627213552534-5039221817418556141-n.jpg" alt="Rakibul Hasan Logo" >
-</div>
-
----
+# ![Banner Image](https://i.ibb.co.com/Cs7smWj3/flinkedin.png) 
 
 ## 🚀 About Me
-- 🎯 **Building scalable web applications**
-- 📚 Currently mastering: Next.js, TypeScript, Postgres, Prisma 
-- 🌟 **Passionate about:** Open Source, Problem Solving, & Learning  
-- 🤝 **Looking for:** Collaborative Projects & Freelance Opportunities  
 
----
+```javascript
+const Rakibul = {
+    location: "Sylhet Division, Bangladesh",
+    role: "Full Stack Engineer | MERN Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux", "Context API"],
+            css: ["Tailwind CSS", "Bootstrap", "Material-UI", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js", "Nest.js"],
+            databases: ["MongoDB", "PostgreSQL", "Firebase", "MySQL"]
+        },
+        devOps: ["Docker", "AWS", "Vercel", "Netlify"],
+        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"]
+    },
+    currentFocus: "Building scalable web applications with modern tech stack",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
 
-### 🛠️ **Technology & Tools**
 
-<div align="center">
+
+
+## Technology and Tools
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,html,css,tailwind,nodejs,firebase,github,illustrator,vscode,git,daisyui,typescript,java,python" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,mongodb,postgres,nodejs,java,python,c,html,css,tailwindcss,docker,firebase,bootstrap,git,github,figma,vscode,ubuntu" />
   </a>
-</div>
+</p>
+
+
+## 💼 What I'm Up To
+
+- 🔭 Currently working on **Advanced React Projects** and exploring **Microservices Architecture**
+- 🌱 Learning **Next.js 14**, **NestJS**, **Docker**, and **AWS Cloud Services**
+- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
+- 💬 Ask me about **React**, **Node.js**, **NestJS**, **MongoDB**, or **Full-Stack Development**
+- 📫 Reach me at: **joy600508@gmail.com**
+- ⚡ Fun fact: I believe great code is like humor - when you have to explain it, it's bad!
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul561&theme=algolia&show_icons=true)
+
 
 ---
 
-### 📊 **GitHub Stats**
+## 🤝 Contact
 
-<div align="center">
+### 👨‍💻 **Developer Information**
+**Anirban Das Joy**  
+*Full Stack Engineer | MERN Stack Specialist*  
+Moulvibazar Polytechnic Institute, Department of CSE
 
-#### **GitHub Profile Overview**
-<img src="https://github-readme-stats.vercel.app/api?username=rakibul561&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
+### 📬 **Contact Details**
+- 📧 **Email:** [rakibulhasan3929@gmail.com](rakibulhasan3929@gmail.com)
+- 💻 **GitHub:** [https://github.com/rakibul561](https://github.com/rakibul561)
+- 🔗 **LinkedIn:** [[https://www.linkedin.com/in/rakibul-hasan-b94123271/](https://www.linkedin.com/in/rakibul-hasan-b94123271/)]
 
-#### **GitHub Streak Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul561&theme=radical" alt="GitHub Streak">
 
-#### **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul561&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages">
-
-</div>
-
----
-
-### 📈 **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibul561&radius=16&theme=react&area=true&order=5" alt="GitHub Activity Graph">
-</div>
+### 💼 **Available for:**
+- Freelance projects
+- Technical consultation
+- Full-stack development
+- API development
+- Database design
+- Code reviews
 
 ---
 
 
 
-### 🎯 **Goals & Aspirations**
 
-- 🌟 Striving to become a **Full-Stack Developer** with expertise in building complex applications.
-- 🚀 Keen on contributing to **open-source** projects and **collaborating** with fellow developers.
 
----
 
-### ✨ **Let's Connect**
 
-I love connecting with fellow developers and tech enthusiasts. Reach out to me via:
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibulhasan/)](https://www.linkedin.com/in/rakibulhasan/) 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rakibul_has)](https://twitter.com/rakibul_has)
 
-</div>
-
----
-
-### 🙏 **Thanks for visiting my profile!**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" width="300px">
-</div>
-
----
-
+  
