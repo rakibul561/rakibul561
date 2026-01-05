@@ -1,12 +1,12 @@
-# ![Banner Image](https://i.ibb.co.com/4nkhLnm1/github-banner.jpg) 
+# ![Banner Image](https://i.ibb.co.com/F4f8bG0Z/Gemini-Generated-Image-9a0hp59a0hp59a0h.png) 
 
 ## 🚀 About Me
 
 ```javascript
 const Rakibul = {
-    location: "Sylhet Division, Bangladesh",
-    role: "Full Stack Engineer | MERN Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    location: "Mymensingh Division, Bangladesh",
+    role: "Full Stack Developer | MERN Stack Developer",
+    code: ["JavaScript", "TypeScript"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Redux", "Context API"],
@@ -42,7 +42,7 @@ const Rakibul = {
 - 🌱 Learning **Next.js 14**, **NestJS**, **Docker**, and **AWS Cloud Services**
 - 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
 - 💬 Ask me about **React**, **Node.js**, **NestJS**, **MongoDB**, or **Full-Stack Development**
-- 📫 Reach me at: **joy600508@gmail.com**
+- 📫 Reach me at: **rakibulhasan3929@gmail.com**
 - ⚡ Fun fact: I believe great code is like humor - when you have to explain it, it's bad!
 
 
@@ -55,8 +55,8 @@ const Rakibul = {
 ## 🤝 Contact
 
 ### 👨‍💻 **Developer Information**
-**Anirban Das Joy**  
-*Full Stack Engineer | MERN Stack Specialist*  
+**Rakibul Hasan**  
+*Full Stack Developer | MERN Stack Specialist*  
 Moulvibazar Polytechnic Institute, Department of CSE
 
 ### 📬 **Contact Details**
